@@ -1,0 +1,104 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VW startup pro posttype\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-06 10:29+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: vwthemes Team <support@vwthemes.com>\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: en_IN\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Parser: loco_parse_po\n"
+
+#: index.php:19 #: index.php:20
+msgctxt "投资组合"
+msgid "Portfolio"
+msgstr ""
+
+#: index.php:35 #: index.php:36
+msgctxt "服务"
+msgid "Services"
+msgstr ""
+
+#: index.php:51 #: index.php:52
+msgctxt "褒奖"
+msgid "Testimonials"
+msgstr ""
+
+#: index.php:67 #: index.php:68
+msgctxt "我们的队伍"
+msgid "Our Team"
+msgstr ""
+
+#: index.php:102
+msgctxt "图标图像"
+msgid "Icon Image"
+msgstr ""
+
+#: index.php:146
+msgctxt "要么"
+msgid "OR"
+msgstr ""
+
+#: index.php:151
+msgctxt "字体真棒图标"
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: index.php:159
+msgctxt "将帖子链接到外部URL"
+msgid "Link post to external URL"
+msgstr ""
+
+#: index.php:200 #: index.php:260
+msgctxt "输入细节"
+msgid "Enter Details"
+msgstr ""
+
+#: index.php:223
+msgctxt "指定"
+msgid "Designation"
+msgstr ""
+
+#: index.php:319
+msgctxt "电子邮件"
+msgid "Email"
+msgstr ""
+
+#: index.php:327
+msgctxt "电话号码"
+msgid "Phone Number"
+msgstr ""
+
+#: index.php:335
+msgctxt "Facebook网址"
+msgid "Facebook Url"
+msgstr ""
+
+#: index.php:343
+msgctxt "Linkedin URL"
+msgid "Linkedin URL"
+msgstr ""
+
+#: index.php:351
+msgctxt "Twitter网址"
+msgid "Twitter Url"
+msgstr ""
+
+#: index.php:359
+msgctxt "GooglePlus网址"
+msgid "GooglePlus URL"
+msgstr ""
+
+#: index.php:482 #: index.php:522 index.php:560 index.php:598
+msgctxt "未找到"
+msgid "Not Found"
+msgstr ""

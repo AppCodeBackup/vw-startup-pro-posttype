@@ -1,0 +1,104 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VW startup pro posttype\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-06 10:37+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: vwthemes Team <support@vwthemes.com>\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: en_IN\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Parser: loco_parse_po\n"
+
+#: index.php:19 #: index.php:20
+msgctxt "Portefeuille"
+msgid "Portfolio"
+msgstr ""
+
+#: index.php:35 #: index.php:36
+msgctxt "Prestations de service"
+msgid "Services"
+msgstr ""
+
+#: index.php:51 #: index.php:52
+msgctxt "Témoignages"
+msgid "Testimonials"
+msgstr ""
+
+#: index.php:67 #: index.php:68
+msgctxt "Notre équipe"
+msgid "Our Team"
+msgstr ""
+
+#: index.php:102
+msgctxt "Icône Image"
+msgid "Icon Image"
+msgstr ""
+
+#: index.php:146
+msgctxt "OU"
+msgid "OR"
+msgstr ""
+
+#: index.php:151
+msgctxt "Icône impressionnant de police"
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: index.php:159
+msgctxt "Lien poste vers une URL externe"
+msgid "Link post to external URL"
+msgstr ""
+
+#: index.php:200 #: index.php:260
+msgctxt "Entrez les détails"
+msgid "Enter Details"
+msgstr ""
+
+#: index.php:223
+msgctxt "URL de Twitter"
+msgid "Designation"
+msgstr ""
+
+#: index.php:319
+msgctxt "Email"
+msgid "Email"
+msgstr ""
+
+#: index.php:327
+msgctxt "Numéro de téléphone"
+msgid "Phone Number"
+msgstr ""
+
+#: index.php:335
+msgctxt "L'adresse URL de Facebook"
+msgid "Facebook Url"
+msgstr ""
+
+#: index.php:343
+msgctxt "URL Linkedin"
+msgid "Linkedin URL"
+msgstr ""
+
+#: index.php:351
+msgctxt "URL de Twitter"
+msgid "Twitter Url"
+msgstr ""
+
+#: index.php:359
+msgctxt "URL GooglePlus"
+msgid "GooglePlus URL"
+msgstr ""
+
+#: index.php:482 #: index.php:522 index.php:560 index.php:598
+msgctxt "Pas trouvé"
+msgid "Not Found"
+msgstr ""
